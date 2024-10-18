@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+:root{
+    --color:orange;
+}
+
+body{
+    background-color: rgb(58, 197, 197);
+    color: red;
+    
+}
+
+.po{
+    font-size: 45px;
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
+.sip{
+    text-align: center;
+    counter-reset: green;
+}
